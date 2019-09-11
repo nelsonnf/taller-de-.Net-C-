@@ -1,0 +1,6 @@
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio7\obj\Debug\ejercicio7.csprojResolveAssemblyReference.cache
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio7\bin\Debug\ejercicio7.exe.config
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio7\bin\Debug\ejercicio7.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio7\bin\Debug\ejercicio7.pdb
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio7\obj\Debug\ejercicio7.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio7\obj\Debug\ejercicio7.pdb

@@ -1,0 +1,6 @@
+C:\Users\nelson nuñez\Desktop\talllerC#\ejrcicio3\bin\Debug\ejrcicio3.exe.config
+C:\Users\nelson nuñez\Desktop\talllerC#\ejrcicio3\bin\Debug\ejrcicio3.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejrcicio3\bin\Debug\ejrcicio3.pdb
+C:\Users\nelson nuñez\Desktop\talllerC#\ejrcicio3\obj\Debug\ejrcicio3.csprojResolveAssemblyReference.cache
+C:\Users\nelson nuñez\Desktop\talllerC#\ejrcicio3\obj\Debug\ejrcicio3.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejrcicio3\obj\Debug\ejrcicio3.pdb

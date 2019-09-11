@@ -1,0 +1,6 @@
+C:\Users\nelson nuñez\Desktop\talllerC#\ejerccio5\obj\Debug\ejerccio5.csprojResolveAssemblyReference.cache
+C:\Users\nelson nuñez\Desktop\talllerC#\ejerccio5\bin\Debug\ejerccio5.exe.config
+C:\Users\nelson nuñez\Desktop\talllerC#\ejerccio5\bin\Debug\ejerccio5.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejerccio5\bin\Debug\ejerccio5.pdb
+C:\Users\nelson nuñez\Desktop\talllerC#\ejerccio5\obj\Debug\ejerccio5.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejerccio5\obj\Debug\ejerccio5.pdb

@@ -1,0 +1,6 @@
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio8\bin\Debug\ejercicio8.exe.config
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio8\bin\Debug\ejercicio8.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio8\bin\Debug\ejercicio8.pdb
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio8\obj\Debug\ejercicio8.csprojResolveAssemblyReference.cache
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio8\obj\Debug\ejercicio8.exe
+C:\Users\nelson nuñez\Desktop\talllerC#\ejercicio8\obj\Debug\ejercicio8.pdb
